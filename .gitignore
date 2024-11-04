@@ -1,0 +1,10 @@
+# node_modules klasörünü yoksay
+node_modules/
+
+# Geçici dosyaları yoksay
+*.log
+*.tmp
+
+# İşletim sistemi dosyalarını yoksay
+.DS_Store
+Thumbs.db
