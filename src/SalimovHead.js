@@ -1,5 +1,5 @@
 import Head from "next/head";
-const SalimovHead = () => {
+const AticiHead = () => {
   return (
       <Head>
           <title>Ufuk Atıcı | Back-end Developer</title>
@@ -31,4 +31,4 @@ const SalimovHead = () => {
       </Head>
   );
 };
-export default SalimovHead;
+export default AticiHead;
