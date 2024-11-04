@@ -12,3 +12,7 @@ This is a mobile-responsive and SEO-friendly portfolio website developed using R
 ![App Screenshot](https://ufukatici.online/assets/screenshots/4.png)
 
 ![App Screenshot](https://ufukatici.online/assets/screenshots/5.png)
+
+### Link
+
+<a href="https://ufukatici.online" target="_blank" style="text-decoration: none;"> web site </a>
